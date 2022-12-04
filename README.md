@@ -6,7 +6,7 @@
 
 ## Install
 #### Download manually
-Go to Releases and download the Dracula.flstheme file
+Go to [Releases](https://github.com/DJAruun/fl-studio/releases/tag/theme) and download the Dracula.flstheme file
 
 #### Installing pack
 Place the .flstheme file in `C:\Users\[USER]\Documents\Image-Line\FL Studio\Settings\Themes` <br/>
