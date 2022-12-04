@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [FL Studio](https://www.image-line.com/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [FL Studio](https://www.image-line.com/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/fl-studio](https://draculatheme.com/fl-studio).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![DJARUUN](https://github.com/djaruun.png?size=100)]((https://github.com/DJAruun) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [DJARUUN](https://github.com/DJAruun)                                                    |
 
 ## Community
 
