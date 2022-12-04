@@ -5,14 +5,19 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
+#### Download manually
+Go to Releases and download the Dracula.flstheme file
 
-All instructions can be found at [draculatheme.com/fl-studio](https://draculatheme.com/fl-studio).
+#### Installing pack
+Place the .flstheme file in `C:\Users\[USER]\Documents\Image-Line\FL Studio\Settings\Themes` <br/>
+Inside FL Studio, go to `Options` > `General settings` > `Select theme...` <br/>
+Select the theme and enjoy!!
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![DJARUUN](https://github.com/djaruun.png?size=100)](https://github.com/DJAruun) |
+| [![DJARUUN](https://github.com/djaruun.png?size=100)](https://github.com/DJAruun)        |
 | ---------------------------------------------------------------------------------------- |
 | [DJARUUN](https://github.com/DJAruun)                                                    |
 
